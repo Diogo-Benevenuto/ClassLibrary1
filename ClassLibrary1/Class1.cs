@@ -7,5 +7,8 @@ namespace ClassLibrary1
         //teste
 
         //asdf
+
+        public int id { get; set; }
+        public string Nome { get; set; }
     }
 }
