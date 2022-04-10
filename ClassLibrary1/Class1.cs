@@ -9,5 +9,10 @@ namespace ClassLibrary1
         //asdf
 
         //testando a copia
+
+        public int id { get; set; }
+        public string Nome { get; set; }
+
+        public string test { get; set; }
     }
 }
