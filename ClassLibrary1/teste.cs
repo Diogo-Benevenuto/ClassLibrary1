@@ -7,5 +7,7 @@ namespace ClassLibrary1
     internal class teste
     {
         //teste de classe
+
+        //testando o merge espero que funcione 
     }
 }
