@@ -7,5 +7,7 @@ namespace ClassLibrary1
     internal class ClassCopia
     {
         //testando
+
+        //tentando para ver se vai dar erro no  merge
     }
 }
